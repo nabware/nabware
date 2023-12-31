@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelrana789@gmail.com)
 
 ### About Me: 
-- 💊 I'm an operations analyst turned software engineer.
+- 🏭 I'm an operations analyst turned software engineer.
 - 👩‍💻 I am a graduate from a full stack web development bootcamp, Rithm School.
 - 👀 I’m interested in creating innovative and scalable tech solutions. 
 
